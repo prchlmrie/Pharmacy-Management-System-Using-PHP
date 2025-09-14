@@ -50,14 +50,30 @@ The system is backed by a relational database with tables for **customers, pharm
 ![LoginPage](https://github.com/user-attachments/assets/a255c573-37d3-4a90-99db-0ee92ab4a484)
 
 - Pharmacist Page
-![Dashboard](https://github.com/user-attachments/assets/74b3ad95-47b5-4de7-b8d5-72ef2228beec)
-![Medicines](https://github.com/user-attachments/assets/dd4a4552-0829-4f0d-8f3f-71f6f845bcf1)
-![Customers](https://github.com/user-attachments/assets/f01a70ee-1326-4c32-b526-c685081b9625)
-![Purchasing](https://github.com/user-attachments/assets/676f7c51-0a63-4a7c-b5ff-ecac9f802fa4)
-![Sales](https://github.com/user-attachments/assets/201ea3ee-e36c-4a00-9898-0298e2b8261d)
-![Reports](https://github.com/user-attachments/assets/b8913713-c604-47cd-8900-9db20ae9b648)
+- Dashboard
 
+![Dashboard](https://github.com/user-attachments/assets/74b3ad95-47b5-4de7-b8d5-72ef2228beec)
+
+- Medicine Page
+
+![Medicines](https://github.com/user-attachments/assets/dd4a4552-0829-4f0d-8f3f-71f6f845bcf1)
 
 - Customer Page
+
+![Customers](https://github.com/user-attachments/assets/f01a70ee-1326-4c32-b526-c685081b9625)
+
+- Purchasing Page
+
+![Purchasing](https://github.com/user-attachments/assets/676f7c51-0a63-4a7c-b5ff-ecac9f802fa4)
+
+- Sales Page
+
+![Sales](https://github.com/user-attachments/assets/201ea3ee-e36c-4a00-9898-0298e2b8261d)
+
+- Reports Page
+![Reports](https://github.com/user-attachments/assets/b8913713-c604-47cd-8900-9db20ae9b648)
+
+- Customer Page
+
 ![CustomerPage](https://github.com/user-attachments/assets/bb9ed33d-f0fe-42e7-8145-8845d677b6d1)
 
