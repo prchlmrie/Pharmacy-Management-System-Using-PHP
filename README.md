@@ -28,24 +28,24 @@ It is based on the ERD design of a pharmacy system that shows how the database s
 
 ---
 
-## 🗄️ Database Design (ERD)
+## Database Design (ERD)
 
 The system is backed by a relational database with tables for **customers, pharmacists, medicines, purchasing, sales, and reports**.  
 
-📌 ERD Example:
+ERD Example:
 
 <img width="801" height="591" alt="image" src="https://github.com/user-attachments/assets/1b303ce5-5812-4406-ab23-4a8c5acc2c93" />
 
 ---
 
-## 🖥️ Technologies Used
+## Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript  
 - **Backend**: PHP  
 - **Database**: MySQL (via phpMyAdmin)
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 - Login Page
   
 ![LoginPage](https://github.com/user-attachments/assets/a255c573-37d3-4a90-99db-0ee92ab4a484)
