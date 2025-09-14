@@ -1,5 +1,3 @@
-<img width="901" height="691" alt="image" src="https://github.com/user-attachments/assets/1b303ce5-5812-4406-ab23-4a8c5acc2c93" />
-
 # Pharmacy Management System Using PHP & MySQL
 Pharmacy Management System is a web-based application built with PHP and MySQL that simulates how pharmacy inventory and transactions work.
 It is based on the ERD design of a pharmacy system that shows how the database structure translates into a functional web application.
