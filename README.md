@@ -32,8 +32,9 @@ It is based on the ERD design of a pharmacy system that shows how the database s
 
 The system is backed by a relational database with tables for **customers, pharmacists, medicines, purchasing, sales, and reports**.  
 
-📌 ERD Example:  
-<img width="901" height="691" alt="image" src="https://github.com/user-attachments/assets/1b303ce5-5812-4406-ab23-4a8c5acc2c93" />
+📌 ERD Example:
+
+<img width="801" height="591" alt="image" src="https://github.com/user-attachments/assets/1b303ce5-5812-4406-ab23-4a8c5acc2c93" />
 
 ---
 
@@ -49,7 +50,7 @@ The system is backed by a relational database with tables for **customers, pharm
   
 ![LoginPage](https://github.com/user-attachments/assets/a255c573-37d3-4a90-99db-0ee92ab4a484)
 
-- Pharmacist Page
+- Pharmacist Page:
 - Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/74b3ad95-47b5-4de7-b8d5-72ef2228beec)
@@ -71,6 +72,7 @@ The system is backed by a relational database with tables for **customers, pharm
 ![Sales](https://github.com/user-attachments/assets/201ea3ee-e36c-4a00-9898-0298e2b8261d)
 
 - Reports Page
+
 ![Reports](https://github.com/user-attachments/assets/b8913713-c604-47cd-8900-9db20ae9b648)
 
 - Customer Page
